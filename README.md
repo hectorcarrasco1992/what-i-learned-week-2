@@ -16,4 +16,13 @@
   I learned about how margin and padding are lke invisible borders around the content of a webpage. With Margin and Padding, you can adjust position and siz of an element.
 
   # HRM and CSS Diner
-    played more human resources and CSS diner.    
+    played more human resources and CSS diner.
+
+   ---
+
+   # Copy Kitten
+      * learned how to re-create a web page using CSS
+      * learned how to bring up the developers tools in a webpage to look at its code and learn from it.
+
+ 
+
